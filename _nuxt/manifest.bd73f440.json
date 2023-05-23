@@ -1,0 +1,10 @@
+{
+  "name": "spacefolio",
+  "short_name": "spacefolio",
+  "description": "Hey there! This is the repository for my personal portfolio website.  I developed this using Nuxt.JS, Three.JS, and Sass. Feel free to drop by the link below to check out the full site!",
+  "icons": [],
+  "start_url": "/?standalone=true",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "lang": "en"
+}
